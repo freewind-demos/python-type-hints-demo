@@ -1,14 +1,12 @@
-# Python 类型提示
+# Python type-hints
 
 ## 启动
 
 ```bash
-python type_hints.py
+python python-type-hints-demo/*.py
 ```
 
-## 类型提示
+## 教程
 
-```python
-def greet(name: str) -> str:
-    return f"Hello, {name}!"
-```
+Python type-hints 示例。
+
